@@ -26,12 +26,12 @@ Devido ao tamanho grande dos arquivos, os kernels são hospedados no Catbox (ser
 | openSUSE | 6.19.6 | [Baixar](https://files.catbox.moe/w82yug.7z) |
 | openSUSE (LTS) | 6.18.16 | [Baixar](https://files.catbox.moe/1mjqvr.7z) |
 
-### Kernels grandes (em breve)
+### Kernels grandes
 
-Os seguintes kernels são muito grandes para upload no Catbox (limite 200MB). Estão sendo disponibilizados via outro meio:
+Os kernels muito grandes para o Catbox (limite 200MB) estão disponíveis no repositório secundário: **[kernel-linux2](https://github.com/lucasgertke11-bot/kernel-linux2)**
 
-- ~~Arch Linux~~ (241MB) - Em breve
-- ~~Gentoo/Calculate~~ (216MB) - Em breve
+- Arch Linux (226MB)
+- Gentoo/Calculate (209MB)
 
 ## Uso
 
